@@ -1,0 +1,8 @@
+logging:
+  level:
+    root: INFO
+spring:
+  data:
+    web:
+      pageable:
+        one-indexed-parameters: true
